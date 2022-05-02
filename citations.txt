@@ -1,0 +1,136 @@
+REFERENCES
+[1] Baher Abdulhai, Rob Pringle, and Grigoris J Karakoulas. Reinforcement
+learning for true adaptive traffic signal control. Journal of Transportation
+Engineering, 129(3):278–285, 2003.
+[2] S Sheik Mohammed Ali, Boby George, Lelitha Vanajakshi, and
+Jayashankar Venkatraman. A multiple inductive loop vehicle detection
+system for heterogeneous and lane-less traffic. IEEE Transactions on
+Instrumentation and Measurement, 61(5):1353–1360, 2011.
+[3] Itamar Arel, Cong Liu, Tom Urbanik, and Airton G Kohls. Reinforcement
+learning-based multi-agent system for network traffic signal
+control. IET Intelligent Transport Systems, 4(2):128–135, 2010.
+[4] PG Balaji, X German, and Dipti Srinivasan. Urban traffic signal control
+using reinforcement learning agents. IET Intelligent Transport Systems,
+4(3):177–188, 2010.
+[5] Federico Barrero, Jean A. Guevara, Enrique Vargas, Sergio Toral, and
+Manuel Vargas. Networked transducers in intelligent transportation systems
+based on the ieee 1451 standard. Computer Standards Interfaces,
+36(2):300–311, 2014.
+[6] Yit Kwong Chin, Nurmin Bolong, Aroland Kiring, Soo Siang Yang,
+and Kenneth Tze Kin Teo. Q-learning based traffic optimization in
+management of signal timing plan. International Journal of Simulation,
+Systems, Science & Technology, 12(3):29–35, 2011.
+[7] Ali Çivril and Malik Magdon-Ismail. On selecting a maximum volume
+sub-matrix of a matrix and related problems. Theoretical Computer
+Science, 410(47-49):4801–4811, 2009.
+[8] Seung-Bae Cools, Carlos Gershenson, and Bart D’Hooghe. Selforganizing
+traffic lights: A realistic simulation. In Advances in applied
+self-organizing systems, pages 45–55. Springer, 2013.
+[9] M. Co¸skun, A. Baggag, and S. Chawla. Deep reinforcement learning
+for traffic light optimization. In 2018 IEEE International Conference on
+Data Mining Workshops (ICDMW), pages 564–571, 2018.
+[10] Francois Dion, Hesham Rakha, and Youn-Soo Kang. Comparison of
+delay estimates at under-saturated and over-saturated pre-timed signalized
+intersections. Transportation Research Part B: Methodological, 38(2):99–122, 2004.
+[11] Samah El-Tantawy, Baher Abdulhai, and Hossam Abdelgawad. Multiagent
+reinforcement learning for integrated network of adaptive traffic
+signal controllers (marlin-atsc): methodology and large-scale application
+on downtown toronto. IEEE Transactions on Intelligent Transportation
+Systems, 14(3):1140–1150, 2013.
+[12] Sébastien Faye, Claude Chaudet, and Isabelle Demeure. A distributed
+algorithm for multiple intersections adaptive traffic lights control using
+a wireless sensor networks. In Proceedings of the First Workshop on
+Urban Networking, UrbaNe ’12, page 13–18, New York, NY, USA,
+2012. Association for Computing Machinery.
+[13] Akshay Gadde, Aamir Anis, and Antonio Ortega. Active semisupervised
+learning using sampling theory for graph signals. In Proceedings
+of the 20th ACM SIGKDD international conference on Knowledge
+discovery and data mining, pages 492–501, 2014.
+[14] D. Gregor, S. Toral, T. Ariza, F. Barrero, R. Gregor, J. Rodas, and
+M. Arzamendia. A methodology for structured ontology construction
+applied to intelligent transportation systems. Computer Standards
+Interfaces, 47:108–119, 2016.
+[15] Andrew Guillory and Jeff A Bilmes. Label selection on graphs. In
+Advances in Neural Information Processing Systems, pages 691–699,
+2009.
+[16] Ashley Hill, Antonin Raffin, Maximilian Ernestus, Adam Gleave, Anssi
+Kanervisto, Rene Traore, Prafulla Dhariwal, Christopher Hesse, Oleg
+Klimov, Alex Nichol, Matthias Plappert, Alec Radford, John Schulman,
+Szymon Sidor, and Yuhuai Wu. Stable baselines. https://github.com/hilla/
+stable-baselines, 2018.
+[17] Waris Hooda, Pradeep Kumar Yadav, Amogh Bhole, and Deptii D.
+Chaudhari. An image processing approach to intelligent traffic management
+system. In Proceedings of the Second International Conference on
+Information and Communication Technology for Competitive Strategies,
+ICTCS ’16, New York, NY, USA, 2016. Association for Computing
+Machinery.
+[18] INRIX. Home.
+[19] Yoichiro Iwasaki. Image processing system to measure vehicular queues
+and an adaptive traffic signal control by using the information of the
+queues. Computer Standards Interfaces, 20(6):444, 1999.
+[20] Junteng Jia, Michael T Schaub, Santiago Segarra, and Austin R Benson.
+Graph-based semi-supervised & active learning for edge flows. arXiv
+preprint arXiv:1905.07451, 2019.
+[21] Lior Kuyer, Shimon Whiteson, Bram Bakker, and Nikos Vlassis. Multiagent
+reinforcement learning for urban traffic control using coordination
+graphs. In Joint European Conference on Machine Learning and
+Knowledge Discovery in Databases, pages 656–671. Springer, 2008.
+[22] Ninad Lanke and Sheetal Koul. Smart traffic management system.
+International Journal of Computer Applications, 75(7), 2013.
+[23] Pablo Alvarez Lopez, Michael Behrisch, Laura Bieker-Walz, Jakob Erdmann,
+Yun-Pang Flötteröd, Robert Hilbrich, Leonhard Lücken, Johannes
+Rummel, Peter Wagner, and Evamarie Wießner. Microscopic traffic
+simulation using sumo. In The 21st IEEE International Conference
+on Intelligent Transportation Systems. IEEE, 2018.
+[24] Patrick Mannion, Jim Duggan, and Enda Howley. An experimental
+review of reinforcement learning algorithms for adaptive traffic signal
+control. In Autonomic Road Transport Support Systems, pages 47–66.
+Springer, 2016.
+[25] Alan J Miller. Settings for fixed-cycle traffic signals. Journal of the
+Operational Research Society, 14(4):373–386, 1963.
+[26] Volodymyr Mnih, Adrià Puigdomènech Badia, Mehdi Mirza, Alex
+Graves, Timothy P. Lillicrap, Tim Harley, David Silver, and Koray
+Kavukcuoglu. Asynchronous methods for deep reinforcement learning,
+2016.
+[27] Hsin-Hung Pan, Shu-Ching Wang, and Kuo-Qin Yan. An integrated
+data exchange platform for intelligent transportation systems. Computer
+Standards Interfaces, 36(3):657–671, 2014.
+[28] Isaac Porche and Stéphane Lafortune. Adaptive look-ahead optimization
+of traffic signals. Journal of Intelligent Transportation System, 4(3-
+4):209–254, 1999.
+[29] I. Román, G. Madinabeitia, L. Jimenez, G.A. Molina, and J.A. Ternero.
+Experiences applying rm-odp principles and techniques to intelligent
+transportation system architectures. Computer Standards Interfaces,
+35(3):338–347, 2013. RM-ODP: Foundations, Experience and Applications.
+[30] John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, and Oleg
+Klimov. Proximal policy optimization algorithms, 2017.
+[31] Brian L Smith and Michael J Demetsky. Short-term traffic flow
+prediction: neural network approach. Transportation Research Record,
+(1453), 1994.
+[32] S.L. Toral, F. Barrero, F. Cortés, and D. Gregor. Analysis of embedded
+corba middleware performance on urban distributed transportation
+equipments. Computer Standards Interfaces, 35(1):150–157, 2013.
+[33] Elise Van der Pol and Frans A Oliehoek. Coordinated deep reinforcement
+learners for traffic light control. Proceedings of Learning, Inference
+and Control of Multi-Agent Systems (at NIPS 2016), 2016.
+[34] Fo Vo Webster. Traffic signal settings. Technical report, 1958.
+[35] Hua Wei, Nan Xu, Huichu Zhang, Guanjie Zheng, Xinshi Zang, Chacha
+Chen, Weinan Zhang, Yanmin Zhu, Kai Xu, and Zhenhui Li. Colight:
+Learning network-level cooperation for traffic signal control. In Proceedings
+of the 28th ACM International Conference on Information and
+Knowledge Management, pages 1913–1922, 2019.
+[36] Hua Wei, Guanjie Zheng, Vikash Gayah, and Zhenhui Li. Recent
+advances in reinforcement learning for traffic signal control: A survey
+of models and evaluation. ACM SIGKDD Explorations Newsletter,
+22(2):12–18, 2021.
+[37] Hua Wei, Guanjie Zheng, Huaxiu Yao, and Zhenhui Li. Intellilight:
+A reinforcement learning approach for intelligent traffic light control.
+In Proceedings of the 24th ACM SIGKDD International Conference on
+Knowledge Discovery & Data Mining, pages 2496–2505. ACM, 2018.
+[38] MA Wiering. Multi-agent reinforcement learning for traffic light control.
+In Machine Learning: Proceedings of the Seventeenth International
+Conference (ICML’2000), pages 1151–1158, 2000.
+[39] Guanjie Zheng, Yuanhao Xiong, Xinshi Zang, Jie Feng, Hua Wei,
+Huichu Zhang, Yong Li, Kai Xu, and Zhenhui Li. Learning phase
+competition for traffic signal control. arXiv preprint arXiv:1905.04722,
+2019.
